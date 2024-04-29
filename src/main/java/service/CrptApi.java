@@ -72,6 +72,7 @@ public class CrptApi {
 
         return HttpRequest.newBuilder()
                 .uri(URI.create(url))
+                .header("Content-Type", "application/json")
                 .POST(HttpRequest.BodyPublishers.ofString(document))
                 .build();
     }
