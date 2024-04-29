@@ -1,0 +1,8 @@
+
+]
+java:S1220""Move this file to a named package.8Ü»¤Äò1J$d2e87517-2788-4acc-bc58-2a0bec72706b
+s
+java:S1172"0Remove this unused method parameter "signature".(ä…å8è»¤Äò1J$97876ae9-d77a-4d08-bb2a-9f0ea72ffc4d
+‹
+java:S2276%"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(ñÇû•ùÿÿÿÿ8í»¤Äò1J$c97f6299-4dbc-43c2-84c3-c942f1c0c479
+r	java:S1068"+Replace this use of System.out by a logger.(ª“–ÿúÿÿÿÿ8ï»¤Äò1J$0766d615-0889-43fe-8fcb-2cde9396541f

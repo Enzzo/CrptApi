@@ -1,0 +1,8 @@
+
+‚
+java:S1854":Remove this useless assignment to local variable "buffer".(ÇïÜŠøÿÿÿÿ8úäËò1J$f19e4976-fc78-4c5d-9c22-1051cb42c33b
+h
+java:S2129" Remove this "String" constructor(ìÉèÿÿÿÿÿ8ÿäËò1J$1318fffd-41d6-4609-8696-6d10fa9d2ca6
+”
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(éŒ³ã8€äËò1J$f7108253-324b-487f-af05-f493886d9cac
+m	java:S106"+Replace this use of System.out by a logger.(éŒ³ã8äËò1J$f4d74937-1d3a-4cb8-9761-1904fa8a0e6e
